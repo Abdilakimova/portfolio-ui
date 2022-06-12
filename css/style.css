@@ -11,3 +11,34 @@
   color: #000000;
   text-decoration: none;
 }
+
+.intro-h1 {
+  font-family: 'Heebo';
+font-style: normal;
+font-weight: 700;
+font-size: 44px;
+line-height: 60px;
+/* or 136% */
+/* Dark Color */
+color: #21243D 
+}
+
+.intro-pg {
+  font-family: 'Heebo';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  /* Dark Color */  
+  color: #21243D;
+}
+
+.intro-a {
+  font-family: 'Heebo';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 29px;
+  color: #2a812f;
+  text-decoration: none
+}
