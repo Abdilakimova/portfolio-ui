@@ -13,7 +13,7 @@
 }
 
 .intro-h1 {
-  font-family: 'Heebo';
+font-family: 'Heebo';
 font-style: normal;
 font-weight: 700;
 font-size: 44px;
@@ -42,3 +42,58 @@ color: #21243D
   color: #2a812f;
   text-decoration: none
 }
+
+.posts-h3{
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 60px;
+/* identical to box height, or 273% */
+display: flex;
+align-items: flex-end;
+/* Dark Color */
+color: #21243D;
+}
+
+.posts-View{
+  font-family: 'Heebo';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  text-align: right;
+  /* Secondry */
+  color: #00A8CC;
+}
+
+.posts-h2{
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 700;
+font-size: 26px;
+line-height: 38px;
+/* Dark Color */
+color: #21243D;
+}
+
+.posts-data{
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 26px;
+/* Dark Color */
+color: #21243D;
+}
+
+.posts-paragraph{
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* Dark Color */
+color: #21243D;
+}
+
