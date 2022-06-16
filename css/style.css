@@ -395,3 +395,59 @@ color: #21243D;
   border-radius: 2px;
 }
 
+.social-network{
+  list-style: none;
+}
+
+.fb-img{
+  position: absolute;
+  : 30px;
+  height: 30px;
+  left: calc(50% - 30px/2 - 115px);
+  top: calc(50% - 30px/2 + 1600px);
+}
+
+.insta-img{
+  position: absolute;
+  left: 45.49%;
+  right: 120.91%;
+  top: 303.80%;
+  bottom: 95.49%;
+}
+
+.twit-img{
+  position: absolute;
+  left: 50.13%;
+  right: 40.67%;
+  top: 303.80%;
+  bottom: 55.49%;
+}
+
+.in-img{
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  left: calc(50% - 30px/2 + 90px);
+  top: calc(50% - 30px/2 + 1600px);
+}
+
+.footer-copy{
+  position: absolute;
+height: 21px;
+left: 40.28%;
+right: 40.45%;
+top: calc(50% - 21px/2 + 1630px);
+
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 21px;
+/* identical to box height */
+
+text-align: center;
+
+/* Dark */
+
+color: #21243D;
+}
