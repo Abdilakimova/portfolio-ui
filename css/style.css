@@ -33,13 +33,13 @@ color: #21243D
   color: #21243D;
 }
 
-.intro-download{
+.intro-a{
   font-family: 'Heebo';
   font-style: normal;
   font-weight: 500;
   font-size: 20px;
   line-height: 29px;
-  color: #ffffff;
+  color: #0b7c07;
   text-decoration: none
 }
 
@@ -383,16 +383,6 @@ color: #21243D;
   /* identical to box height, or 273% */
   /* Dark Color */
   color: #21243D;
-}
-
-.intro-button{
-  width: 208px;
-  height: 47px;
-  left: 148px;
-  top: 477px;
-  /* Primary */
-  background: #FF6464;
-  border-radius: 2px;
 }
 
 .social-network{
