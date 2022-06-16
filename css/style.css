@@ -39,7 +39,7 @@ color: #21243D
   font-weight: 500;
   font-size: 20px;
   line-height: 29px;
-  color: #2a812f;
+  color: #ffffff;
   text-decoration: none
 }
 
@@ -383,5 +383,15 @@ color: #21243D;
   /* identical to box height, or 273% */
   /* Dark Color */
   color: #21243D;
+}
+
+.intro-button{
+  width: 208px;
+  height: 47px;
+  left: 148px;
+  top: 477px;
+  /* Primary */
+  background: #FF6464;
+  border-radius: 2px;
 }
 
