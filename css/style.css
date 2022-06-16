@@ -33,7 +33,7 @@ color: #21243D
   color: #21243D;
 }
 
-.intro-a {
+.intro-download{
   font-family: 'Heebo';
   font-style: normal;
   font-weight: 500;
@@ -56,7 +56,7 @@ align-items: flex-end;
 color: #21243D;
 }
 
-.posts-View{
+.posts-view{
   font-family: 'Heebo';
   font-style: normal;
   font-weight: 400;
@@ -401,7 +401,7 @@ color: #21243D;
 
 .fb-img{
   position: absolute;
-  : 30px;
+  width: 30px;
   height: 30px;
   left: calc(50% - 30px/2 - 115px);
   top: calc(50% - 30px/2 + 1600px);
